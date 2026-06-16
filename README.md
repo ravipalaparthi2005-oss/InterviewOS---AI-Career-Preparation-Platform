@@ -96,4 +96,4 @@ Built a full-stack AI career preparation platform using Next.js, React, Node.js,
 
 ## GitHub
 
-Repository: https://github.com/PalaparthiRavikiran/InterviewOS
+Repository: https://github.com/ravipalaparthi2005-oss/InterviewOS---AI-Career-Preparation-Platform
